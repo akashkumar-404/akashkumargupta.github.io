@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/akashkumargupta.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/akashkumargupta.github.io/static/js/main.2b42b99d.js",
+    "main.js": "/akashkumargupta.github.io/static/js/main.d6f20225.js",
     "static/js/787.128fc6e9.chunk.js": "/akashkumargupta.github.io/static/js/787.128fc6e9.chunk.js",
     "static/media/logo.svg": "/akashkumargupta.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/akashkumargupta.github.io/index.html",
     "main.073c9b0a.css.map": "/akashkumargupta.github.io/static/css/main.073c9b0a.css.map",
-    "main.2b42b99d.js.map": "/akashkumargupta.github.io/static/js/main.2b42b99d.js.map",
+    "main.d6f20225.js.map": "/akashkumargupta.github.io/static/js/main.d6f20225.js.map",
     "787.128fc6e9.chunk.js.map": "/akashkumargupta.github.io/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2b42b99d.js"
+    "static/js/main.d6f20225.js"
   ]
 }

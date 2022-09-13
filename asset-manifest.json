@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/akashkumargupta.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/akashkumargupta.github.io/static/js/main.d6f20225.js",
-    "static/js/787.128fc6e9.chunk.js": "/akashkumargupta.github.io/static/js/787.128fc6e9.chunk.js",
-    "static/media/logo.svg": "/akashkumargupta.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/akashkumargupta.github.io/static/css/main.ce2f9602.css",
+    "main.js": "/akashkumargupta.github.io/static/js/main.f4503fbc.js",
+    "static/media/profile.png": "/akashkumargupta.github.io/static/media/profile.4b8ed6205284d50c1a1f.png",
     "index.html": "/akashkumargupta.github.io/index.html",
-    "main.073c9b0a.css.map": "/akashkumargupta.github.io/static/css/main.073c9b0a.css.map",
-    "main.d6f20225.js.map": "/akashkumargupta.github.io/static/js/main.d6f20225.js.map",
-    "787.128fc6e9.chunk.js.map": "/akashkumargupta.github.io/static/js/787.128fc6e9.chunk.js.map"
+    "main.ce2f9602.css.map": "/akashkumargupta.github.io/static/css/main.ce2f9602.css.map",
+    "main.f4503fbc.js.map": "/akashkumargupta.github.io/static/js/main.f4503fbc.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.d6f20225.js"
+    "static/css/main.ce2f9602.css",
+    "static/js/main.f4503fbc.js"
   ]
 }

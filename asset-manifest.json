@@ -1,14 +1,24 @@
 {
   "files": {
-    "main.css": "/akashkumargupta.github.io/static/css/main.ce2f9602.css",
-    "main.js": "/akashkumargupta.github.io/static/js/main.f4503fbc.js",
+    "main.css": "/akashkumargupta.github.io/static/css/main.ce4546ad.css",
+    "main.js": "/akashkumargupta.github.io/static/js/main.12580345.js",
     "static/media/profile.png": "/akashkumargupta.github.io/static/media/profile.4b8ed6205284d50c1a1f.png",
+    "static/media/pharm.JPG": "/akashkumargupta.github.io/static/media/pharm.22514732db2c0c53de4c.JPG",
+    "static/media/sephora.JPG": "/akashkumargupta.github.io/static/media/sephora.64310c43cde6f342ee3b.JPG",
+    "static/media/AKASH.pdf": "/akashkumargupta.github.io/static/media/AKASH.3e0d26d1d2834ba467b7.pdf",
+    "static/media/react1.png": "/akashkumargupta.github.io/static/media/react1.0cf951a69d8e58f83f9d.png",
+    "static/media/html.png": "/akashkumargupta.github.io/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/akashkumargupta.github.io/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/mui.png": "/akashkumargupta.github.io/static/media/mui.5b2d8a0a309d9f7d47c1.png",
+    "static/media/css.png": "/akashkumargupta.github.io/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/redux.png": "/akashkumargupta.github.io/static/media/redux.543b98d3c75b48613322.png",
+    "static/media/javascript.png": "/akashkumargupta.github.io/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/akashkumargupta.github.io/index.html",
-    "main.ce2f9602.css.map": "/akashkumargupta.github.io/static/css/main.ce2f9602.css.map",
-    "main.f4503fbc.js.map": "/akashkumargupta.github.io/static/js/main.f4503fbc.js.map"
+    "main.ce4546ad.css.map": "/akashkumargupta.github.io/static/css/main.ce4546ad.css.map",
+    "main.12580345.js.map": "/akashkumargupta.github.io/static/js/main.12580345.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce2f9602.css",
-    "static/js/main.f4503fbc.js"
+    "static/css/main.ce4546ad.css",
+    "static/js/main.12580345.js"
   ]
 }

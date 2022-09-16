@@ -9,6 +9,7 @@ import Npm from "../assets/npm.png"
 import Tailwind from "../assets/tailwind.png"
 import Chakra from "../assets/chakra.png"
 import Mui from "../assets/mui.png"
+import Typescript from "../assets/typescript.png"
 
 
 function Skills() {
@@ -60,6 +61,10 @@ function Skills() {
           <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
             <img src={Chakra} className='w-20 mx-auto' />
             <p className='my-4'>Chakra</p>
+          </div>
+          <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+            <img src={Typescript} className='w-20 mx-auto' />
+            <p className='my-4'>Typescript</p>
           </div>
         </div>
       </div>

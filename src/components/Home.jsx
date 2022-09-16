@@ -1,7 +1,10 @@
 import React from 'react';
 import {HiArrowNarrowRight, hiArrowNarrowRight} from 'react-icons/hi'
 import { Link } from 'react-scroll';
-import Profile from "../assets/profile.png"
+import Profile from "../assets/profile.png";
+import Typewriter from "typewriter-effect";
+import  Typical from "react-typical"
+
 
 const Home = () => {
   return (
@@ -12,9 +15,22 @@ const Home = () => {
             <div>
             <p className='text-pink-600 ml-[50px]'>Hi, my name is</p>
             <h1 className='text-4xl md:text-7xl font-bold text-yellow-600 ml-[40px]'>Akash Kumar Gupta</h1>
-            <h2 className='text-4xl md:text-7xl font-bold  text-gray-300 ml-[40px]'>I'm Frontend </h2>
-            <h2 className='text-4xl md:text-7xl font-bold  text-gray-300 ml-[40px]'>Developer</h2>
-            <p className='text-gray-500 py-4 max-w-[500px] ml-[40px] '>I'm full-stack Developer specializing in building and designing Websites.
+            <h2 className='text-2xl md:text-4xl font-bold  text-gray-300 ml-[40px]'>I'm {"  "}
+            <Typical loop={Infinity}
+                      wrapper="b"
+                      steps={[
+                        "Frontend Developer",
+                         3000,
+                        "JavaScript Developer",
+                        3000,
+                        "React Developer",
+                         3000,
+                      ]} />
+                     
+
+ </h2>
+            {/* <h2 className='text-4xl md:text-7xl font-bold  text-gray-300 ml-[40px]'>Developer</h2> */}
+            <p className='text-gray-500 py-4 max-w-[500px] ml-[40px] '>I'm Frontend Developer specializing in building and designing Websites.
                 Currently I'm focused more on Frontend</p>
                 </div>
                 <div>

@@ -20,12 +20,12 @@ const Project = () => {
                     JavaScript,HTML,CSS Application
                     </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://roaring-creponne-d99230.netlify.app/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                     Demo
                                 </button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/akashkumar-404/PharmEasy-Clone">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                     Code
                                 </button>
@@ -42,12 +42,12 @@ const Project = () => {
                     React Application
                     </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://my-app-gold-five.vercel.app/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                     Demo
                                 </button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/akashkumar-404/-spotless-crayon-3714">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                     Code
                                 </button>

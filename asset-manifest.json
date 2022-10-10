@@ -1,12 +1,16 @@
 {
   "files": {
     "main.css": "/akashkumargupta.github.io/static/css/main.77960908.css",
-    "main.js": "/akashkumargupta.github.io/static/js/main.6aaebc71.js",
+    "main.js": "/akashkumargupta.github.io/static/js/main.e1df0685.js",
     "static/media/profile.png": "/akashkumargupta.github.io/static/media/profile.4b8ed6205284d50c1a1f.png",
     "static/media/pharm.JPG": "/akashkumargupta.github.io/static/media/pharm.22514732db2c0c53de4c.JPG",
     "static/media/sephora.JPG": "/akashkumargupta.github.io/static/media/sephora.64310c43cde6f342ee3b.JPG",
     "static/media/AKASH.pdf": "/akashkumargupta.github.io/static/media/AKASH.e877d540e4289fbc1055.pdf",
+    "static/media/heliverse.png": "/akashkumargupta.github.io/static/media/heliverse.cfd0befbba60db64a1c9.png",
+    "static/media/nodejs.png": "/akashkumargupta.github.io/static/media/nodejs.c2e22c634a7336cbe298.png",
     "static/media/react1.png": "/akashkumargupta.github.io/static/media/react1.0cf951a69d8e58f83f9d.png",
+    "static/media/mangodb.png": "/akashkumargupta.github.io/static/media/mangodb.a00b739389e1ef95a466.png",
+    "static/media/express.png": "/akashkumargupta.github.io/static/media/express.cca64e0f360897258ecb.png",
     "static/media/html.png": "/akashkumargupta.github.io/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/akashkumargupta.github.io/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/mui.png": "/akashkumargupta.github.io/static/media/mui.5b2d8a0a309d9f7d47c1.png",
@@ -15,10 +19,10 @@
     "static/media/javascript.png": "/akashkumargupta.github.io/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/akashkumargupta.github.io/index.html",
     "main.77960908.css.map": "/akashkumargupta.github.io/static/css/main.77960908.css.map",
-    "main.6aaebc71.js.map": "/akashkumargupta.github.io/static/js/main.6aaebc71.js.map"
+    "main.e1df0685.js.map": "/akashkumargupta.github.io/static/js/main.e1df0685.js.map"
   },
   "entrypoints": [
     "static/css/main.77960908.css",
-    "static/js/main.6aaebc71.js"
+    "static/js/main.e1df0685.js"
   ]
 }

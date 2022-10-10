@@ -21,9 +21,9 @@ const Home = () => {
                       steps={[
                         "Frontend Developer",
                          3000,
-                        "JavaScript Developer",
+                        "Backend Developer",
                         3000,
-                        "React Developer",
+                        "Full Stack Developer",
                          3000,
                       ]} />
                      

@@ -10,7 +10,9 @@ import Tailwind from "../assets/tailwind.png"
 import Chakra from "../assets/chakra.png"
 import Mui from "../assets/mui.png"
 import Typescript from "../assets/typescript.png"
-
+import Mongodb from "../assets/mangodb.png"
+import Express from "../assets/express.png"
+import Nodejs from "../assets/nodejs.png"
 
 function Skills() {
   return (
@@ -35,8 +37,20 @@ function Skills() {
             <p className='my-4'>JavaScript</p>
           </div>
           <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+            <img src={Mongodb} className='w-20 mx-auto' />
+            <p className='my-4'>Mongodb</p>
+          </div>
+          <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+            <img src={Express} className='w-20 mx-auto' />
+            <p className='my-4'>Express</p>
+          </div>
+          <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
             <img src={React1} className='w-20 mx-auto' />
             <p className='my-4'>React js</p>
+          </div>
+          <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+            <img src={Nodejs} className='w-20 mx-auto' />
+            <p className='my-4'>Node JS</p>
           </div>
           <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
             <img src={Redux} className='w-20 mx-auto' />

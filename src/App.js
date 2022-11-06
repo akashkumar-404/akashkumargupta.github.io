@@ -1,4 +1,3 @@
-
 import React from "react";
 import About from "./components/About";
 import Contact from "./components/contact";
@@ -9,12 +8,12 @@ import Skills from "./components/skills";
 import Stats from "./components/Summary";
 function App() {
   return (
-    <div >
-     <Navbar />
-     <Home />
-     <About />
-     <Stats/>
-     <Skills />
+    <div>
+      <Navbar />
+      <Home />
+      <About />
+      <Stats />
+      <Skills />
       <Project />
       <Contact />
     </div>

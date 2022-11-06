@@ -31,6 +31,11 @@ const Navbar = () => {
             About
         </Link>
             </li>
+            <li>
+            <Link to="summary" smooth={true} duration={500} >
+            Stats
+        </Link>
+            </li>
             <li> <Link to="skills" smooth={true} duration={500} >
             Skills
         </Link></li>
@@ -44,7 +49,7 @@ const Navbar = () => {
    
     {/* MMmmmmmmmmmeeeeeeeeenu eeeeeenddddssssss */}
     {/* MMMObile menu */}
-    <div onClick={handleClick} className='md:hidden z-10 '>
+    <div onClick={handleClick} className='md:hidden z-10 ' >
         {!nav?<FaBars className='hover:bg-white hover:text-black p:3' />:<FaTimesCircle className='hover:bg-white hover:text-black p:3' />}
     </div>
         <ul className={!nav ?'hidden':'absolute top-0 left-0 w-full h-screen bg-[#0a192f] flex flex-col justify-center items-center'}>

@@ -8,7 +8,8 @@ import  Typical from "react-typical"
 
 const Home = () => {
   return (
-    <div name='home' className='w-full h-screen bg-[#0a192f]'>
+    // <div style={{width:'100%',border:'1px solid red'}}>
+    <div name='home' className='h-screen bg-[#0a192f]'>
 
         <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
             <div className='flex'>
@@ -51,6 +52,7 @@ const Home = () => {
 
 
     </div>
+    // </div>
   )
 }
 

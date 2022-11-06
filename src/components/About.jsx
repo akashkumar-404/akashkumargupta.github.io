@@ -25,12 +25,7 @@ const About = () => {
 
                 </div>
             </div>
-            <br></br>
-            <div className='sm:text-right pb-8 pl-4 '>
-                <p className='text-2xl font-bold inline border-b-4 border-pink-500 text-left'>My Github contribution  </p>
-            </div>
-            <br />
-            <GitHubCalendar username="akashkumar-404" />
+           
         </div>
        
         

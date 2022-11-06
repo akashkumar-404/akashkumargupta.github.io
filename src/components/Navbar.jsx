@@ -42,6 +42,12 @@ const Navbar = () => {
             <li> <Link to="project" smooth={true} duration={500} >
             Projects
         </Link></li>
+        <li >
+                <a className='flex justify-between items-center' 
+                href={AKASH} download>
+                Resume 
+                </a>
+            </li>
             <li> <Link to="contact" smooth={true} duration={500} >
             Contact Me
         </Link></li>
@@ -65,10 +71,12 @@ const Navbar = () => {
             <li className='py-6 text-4xl'><Link onClick={handleClick} to="project" smooth={true} duration={500} >
             Projects
         </Link></li>
-        <li className='py-6 text-4xl'><Link onClick={handleClick} to="project" smooth={true} duration={500} >
-        <a className='flex justify-between items-center w-full' 
-                href={AKASH} download></a>
-        </Link></li>
+        <li className='py-6 text-4xl'>
+        <a className='flex justify-between items-center' 
+                href={AKASH} download>
+                Resume 
+                </a>
+            </li>
             <li className='py-6 text-4xl'><Link onClick={handleClick} to="contact" smooth={true} duration={500} >
             Contact Me
         </Link></li>

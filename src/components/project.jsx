@@ -35,7 +35,7 @@ const projects = [
     {
         id: 4,
         src:  Tripvillas,
-        title: "Redux Project",
+        title: "TripVillas Clone",
         techStack:"REACT| REDUX|MATERIAL UI|Chakra UI" ,
         desc: "TripVillas is a hotel booking app that provides renting and buying option for Property in holiday destination",
         link: "https://tripvillas.vercel.app/",
@@ -45,7 +45,7 @@ const projects = [
 const Project = () => {
   return (
     <div
-    name="projects"
+    name="project"
     className="w-full h-100 bg-gradient-to-l text-gray-300 bg-[#0a192f]">
     <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
     <div className='pb-8'>

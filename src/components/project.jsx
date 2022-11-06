@@ -2,6 +2,7 @@ import React from 'react'
 import Sephora from '../assets/sephora.JPG';
 import Pharm from '../assets/pharm.JPG';
 import Heliverse from "../assets/heliverse.png"
+import Tripvillas from "../assets/Tripvillas.JPG"
 
 const projects = [
     {
@@ -31,6 +32,15 @@ const projects = [
       link: "https://akashkumar404-gmail-com-makes-great-sites-0248a.netlify.app/",
       repo: "https://github.com/akashkumar-404/Heliverse",
     },
+    {
+        id: 4,
+        src:  Tripvillas,
+        title: "Redux Project",
+        techStack:"REACT| REDUX|MATERIAL UI|Chakra UI" ,
+        desc: "TripVillas is a hotel booking app that provides renting and buying option for Property in holiday destination",
+        link: "https://tripvillas.vercel.app/",
+        repo: "https://github.com/akashkumar-404/kindly-earthquake-283",
+      },
   ];
 const Project = () => {
   return (

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/akashkumargupta.github.io/static/css/main.cbfc9746.css",
-    "main.js": "/akashkumargupta.github.io/static/js/main.385ca219.js",
+    "main.css": "/akashkumargupta.github.io/static/css/main.c198f713.css",
+    "main.js": "/akashkumargupta.github.io/static/js/main.6d6e5525.js",
     "static/media/profile.png": "/akashkumargupta.github.io/static/media/profile.4b8ed6205284d50c1a1f.png",
     "static/media/pharm.JPG": "/akashkumargupta.github.io/static/media/pharm.22514732db2c0c53de4c.JPG",
     "static/media/sephora.JPG": "/akashkumargupta.github.io/static/media/sephora.64310c43cde6f342ee3b.JPG",
@@ -19,11 +19,11 @@
     "static/media/redux.png": "/akashkumargupta.github.io/static/media/redux.543b98d3c75b48613322.png",
     "static/media/javascript.png": "/akashkumargupta.github.io/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/akashkumargupta.github.io/index.html",
-    "main.cbfc9746.css.map": "/akashkumargupta.github.io/static/css/main.cbfc9746.css.map",
-    "main.385ca219.js.map": "/akashkumargupta.github.io/static/js/main.385ca219.js.map"
+    "main.c198f713.css.map": "/akashkumargupta.github.io/static/css/main.c198f713.css.map",
+    "main.6d6e5525.js.map": "/akashkumargupta.github.io/static/js/main.6d6e5525.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbfc9746.css",
-    "static/js/main.385ca219.js"
+    "static/css/main.c198f713.css",
+    "static/js/main.6d6e5525.js"
   ]
 }

@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/akashkumargupta.github.io/static/css/main.c198f713.css",
-    "main.js": "/akashkumargupta.github.io/static/js/main.6d6e5525.js",
+    "main.js": "/akashkumargupta.github.io/static/js/main.ec93e474.js",
     "static/media/profile.png": "/akashkumargupta.github.io/static/media/profile.4b8ed6205284d50c1a1f.png",
     "static/media/pharm.JPG": "/akashkumargupta.github.io/static/media/pharm.22514732db2c0c53de4c.JPG",
     "static/media/sephora.JPG": "/akashkumargupta.github.io/static/media/sephora.64310c43cde6f342ee3b.JPG",
     "static/media/Tripvillas.JPG": "/akashkumargupta.github.io/static/media/Tripvillas.4161ec55af4bddc43e60.JPG",
-    "static/media/AKASH.pdf": "/akashkumargupta.github.io/static/media/AKASH.1c5991eff2ddecfdd7ae.pdf",
+    "static/media/AKASH.pdf": "/akashkumargupta.github.io/static/media/AKASH.6e53d99f71250e59fbb5.pdf",
     "static/media/heliverse.png": "/akashkumargupta.github.io/static/media/heliverse.cfd0befbba60db64a1c9.png",
     "static/media/nodejs.png": "/akashkumargupta.github.io/static/media/nodejs.c2e22c634a7336cbe298.png",
     "static/media/react1.png": "/akashkumargupta.github.io/static/media/react1.0cf951a69d8e58f83f9d.png",
@@ -20,10 +20,10 @@
     "static/media/javascript.png": "/akashkumargupta.github.io/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/akashkumargupta.github.io/index.html",
     "main.c198f713.css.map": "/akashkumargupta.github.io/static/css/main.c198f713.css.map",
-    "main.6d6e5525.js.map": "/akashkumargupta.github.io/static/js/main.6d6e5525.js.map"
+    "main.ec93e474.js.map": "/akashkumargupta.github.io/static/js/main.ec93e474.js.map"
   },
   "entrypoints": [
     "static/css/main.c198f713.css",
-    "static/js/main.6d6e5525.js"
+    "static/js/main.ec93e474.js"
   ]
 }

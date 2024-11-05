@@ -13,7 +13,7 @@ const Navbar = () => {
     const [nav,setNav]=useState(false)
     const handleClick=()=>setNav(!nav)
   return (
-    <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300 z-1'>
+    <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300 z-[1000]'>
 
     <div  className='w-[40px]'>
     <img src={Profile} alt="LOGO"  style={{marginTop:'20px'}} className=' rounded-3xl '/>

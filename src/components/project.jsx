@@ -68,12 +68,12 @@ const Project = () => {
 
               
             <div className="flex items-center justify-center">
-              <button
+              {/* <button
                 className="w-24 padding-left: 1.5rem padding-right: 1.5rem/ pl-4  padding-top: 0.75rem
                 padding-bottom: 0.75rem m-4 duration-200 hover:scale-105 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded "
                 onClick={() => window.open(link, "_blank")}>
                 Demo
-              </button>
+              </button> */}
               <button
                 className="w-24 px-6 py-3 m-4 duration-200 hover:scale-105 bg-blue-500 hover:bg-blue-700 text-white font-bold padding-top: 0.5rem padding-bottom: 0.5rem padding-left: 1rem padding-right: 1rem rounded"
                 onClick={() => window.open(repo, "_blank")}>

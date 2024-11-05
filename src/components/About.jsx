@@ -19,11 +19,9 @@ const About = () => {
           </div>
           <div>
             <p>
-              I am very passionate about coding. I have been doing FULL-TIME
-              course with Masai School.There I am learning Data Structures and
-              Algorithm, JavaScript,React etc.There I have been doing 1100+ hrs
-              of coding.I have build some of the Projects. Feel Free to checkout
-              those!
+            Results-driven Frontend Developer specializing in React.js with a focus on building responsive and intuitive web applications. Proven ability to
+ translate design concepts into clean and efficient code. Collaborative team player with a passion for delivering exceptional user experiences.
+ Up-to-date with the latest trends in frontend development.
             </p>
           </div>
         </div>
